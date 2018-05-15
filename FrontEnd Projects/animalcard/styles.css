@@ -1,0 +1,44 @@
+h1
+{
+	font-style:Normal;
+	font-size:50px;
+	color:Orange;
+	margin:5px;
+}
+img
+{
+	width:300px;
+	padding:10px;
+}
+#facts
+{
+	font-style:Italic;
+	border-style:None;
+	border-color:Black;
+}
+.list-of-facts
+{
+	list-style-type:None;
+	font-size: 20px;
+	padding-left:10px;
+}
+span
+{
+	font-weight:Bold;
+}
+h1
+{
+	border-style:None;
+	border-color:Black;
+}
+#data
+{
+	background-color:Pink;
+	width:320px;
+}
+#animal-info
+{
+	padding :5px;
+	background-color:Grey;
+	margin:10px;
+}
